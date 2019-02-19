@@ -1,2 +1,1 @@
-# dux-base
-Dux Website 1.0
+# portfolio-dux
